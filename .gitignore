@@ -133,3 +133,6 @@ dmypy.json
 *.gz
 *ubyte
 datasets/
+
+# saved parameters
+modelParameters/
