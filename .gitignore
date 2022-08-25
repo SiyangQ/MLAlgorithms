@@ -131,6 +131,7 @@ dmypy.json
 # datasets
 *.tgz
 *.gz
+*.png
 *ubyte
 datasets/
 
